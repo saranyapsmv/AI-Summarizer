@@ -1,6 +1,6 @@
 # Youtube Summariser
 
-[![Youtube Summary App]"https://github.com/Harikrishnan2202/AI-Summarize.git"]
+[![Youtube Summary App]"https://github.com/saranyapsmv/AI-Summarizer.git"]
 
 ## Why YouTube Summariser
 
@@ -13,7 +13,7 @@ Summarizing transcripts of such videos automatically allows us to quickly look o
 ## How it Works
 
 ![Youtube Summarizer]
-https://github.com/Harikrishnan2202/AI-Summarize.git
+https://github.com/saranyapsmv/AI-Summarizer.git
 
 ## App Features
 
@@ -34,7 +34,7 @@ https://github.com/Harikrishnan2202/AI-Summarize.git
 
 System: Python3.8
 
-1. ```git clone https://github.com/Harikrishnan2202/AI-Summarize.git```
+1. ```git clone https://github.com/saranyapsmv/AI-Summarizer.git```
 2. ```cd Youtube-Summariser```
 3. ```pip install -r requirements.txt```
 4. ```pip install streamlit>=1.8.1```
